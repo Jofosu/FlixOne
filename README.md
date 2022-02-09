@@ -22,7 +22,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 Here's a walkthrough of implemented user stories:
 
-<img src="FlixOne/Flix.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="Flix.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### Notes
 Instructions weren't clear on how to install cocoapods on the codepath website.
